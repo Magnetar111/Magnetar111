@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm sujal jadhav</h1>
 <h3 align="center">I am from Mumbai(India),currently i'm student in savitribai phule pune university(sppu) as computer Engg.so as (CS) student, I like to learning new things and empowering others.I am intersted in linux,web development,machine learning.</h3>
 
@@ -12,4 +13,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magnetar111&show_icons=true&locale=en" alt="magnetar111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magnetar111&" alt="magnetar111" /></p>
-
